@@ -1,0 +1,32 @@
+Array
+(
+    [id] => chatcmpl-8dJ0nRYwT55nZBVlLtpJzoLCpdYYQ
+    [object] => chat.completion
+    [created] => 1704378565
+    [model] => gpt-3.5-turbo-0613
+    [choices] => Array
+        (
+            [0] => Array
+                (
+                    [index] => 0
+                    [message] => Array
+                        (
+                            [role] => assistant
+                            [content] => Sure, I can help you with that. Please provide the width and height of the doors you need.
+                        )
+
+                    [logprobs] => 
+                    [finish_reason] => stop
+                )
+
+        )
+
+    [usage] => Array
+        (
+            [prompt_tokens] => 95
+            [completion_tokens] => 21
+            [total_tokens] => 116
+        )
+
+    [system_fingerprint] => 
+)
