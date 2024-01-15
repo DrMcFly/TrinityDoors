@@ -26,7 +26,7 @@
         </div>
     </fieldset>
     <div class="form-click center col-sm-12">
-        <span><button type="button" onclick="postForm('a','message');"  id="submit" />Send It</span>
+        <span><button type="button" onclick="postForm('a','message');"  id="submit">Send It</span>
     </div>
     <div id="alert" class="col-sm-12"></div>
 </form>	
