@@ -5,7 +5,7 @@
 <div class="row">
     <div class="center title col-sm-12">
         <h2>Contact us.</h2>
-        <p>Want to make your website awesome? Just get in touch we don't bite.</p>
+        <p>Want to make your website awesome? Just get in touch, we don't bite.</p>
     </div>
 </div><!-- END-->
 
